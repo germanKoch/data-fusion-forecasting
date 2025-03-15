@@ -1,0 +1,1 @@
+https://ods.ai/competitions/data-fusion2025-4cast/dataset
